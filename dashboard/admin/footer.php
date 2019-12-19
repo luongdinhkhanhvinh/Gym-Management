@@ -1,0 +1,1 @@
+<footer class="main">Copyright &copy; 2018 <strong>Titan Gym </strong></footer>
